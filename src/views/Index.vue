@@ -52,6 +52,7 @@
             </md-list-item>
           </transition-group>
         </md-list>
+        <a href="https://github.com/westberliner/vue-vocabulary-playground">Code on github</a>
       </md-app-content>
     </md-app>
   </div>
