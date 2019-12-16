@@ -1,5 +1,8 @@
 # vocabulary
 
+Implemented vuex with localStorage to persist vocabulary. Apply default vocabulary.
+Implemented i18n, vue-router.
+
 ## Project setup
 ```
 yarn install
