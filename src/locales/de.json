@@ -1,0 +1,20 @@
+{
+  "vocabulary": {
+    "title": "Vokabular",
+    "word": "Wort",
+    "foreignWord": "Fremdwort",
+    "actions": "Aktionen",
+    "startTest": "Test starten",
+    "disabledTestInfo": "Erstelle mehr Vokabeln"
+  },
+  "test": {
+    "title": "Vokabular Test",
+    "next": "nächstes",
+    "back": "zurück",
+    "finish": "Ergebnis Anzeigen",
+    "answer": "Antwort",
+    "result": "Ergebnis",
+    "resultText": "Es sind {correct} Wörter von {amount} korrekt."
+  },
+  "home": "Übersicht"
+}
